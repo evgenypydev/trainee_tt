@@ -60,6 +60,16 @@ To perform secured operations (such as creating, editing, and deleting posts), y
 
 When using the token in API requests, ensure to prefix it with Bearer.(example: "Bearer your_access_token")
 
+## Admin Panel Access
+
+### You can access the Django Admin panel with the following credentials:
+
+	•	Username: admin@admin.com
+	•	Password: admin
+
+### The admin panel is available at:
+
+	•	Admin URL: http://localhost:8000/admin/
 
 
 ## API Documentation
